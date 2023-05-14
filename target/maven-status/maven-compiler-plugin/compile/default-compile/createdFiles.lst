@@ -1,0 +1,4 @@
+com\app\personapi\dto\request\PersonDTO$PersonDTOBuilder.class
+com\app\personapi\entities\Phone$PhoneBuilder.class
+com\app\personapi\entities\Person$PersonBuilder.class
+com\app\personapi\dto\request\PhoneDTO$PhoneDTOBuilder.class
